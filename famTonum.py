@@ -51,7 +51,7 @@ def fetch_fampay_pii(upi_id):
             "name": full_name,
             "upi_id": upi_id,
             "mobile_number": phone_number,
-            "credits": "@never_delete | telegram cutehack"
+            "credits": "@gokuuuu_1 | telegram cutehack"
         }
         
         return final_output
